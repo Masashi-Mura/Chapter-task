@@ -2,7 +2,7 @@ import java.util.logging.*;
 
 public class TryCatchFinallySample3{
 
-    static Logger logger = Logger.getLogger(TryCatchFinallySample.class.getName());
+    static Logger logger = Logger.getLogger(TryCatchFinallySample3.class.getName());
 
     public static void main(String[] args){
 
